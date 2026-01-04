@@ -2,6 +2,9 @@
 # My configurations:
 *.ini
 *.so
+<<<<<<< HEAD
 
 # 不排除 c.so
 !c.so
+=======
+>>>>>>> c0fa002fb7a042493ee845c3b21f07ae7ba327be
