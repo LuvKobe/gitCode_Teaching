@@ -2,3 +2,6 @@
 # My configurations:
 *.ini
 *.so
+
+# 不排除 c.so
+!c.so
